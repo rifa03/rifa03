@@ -56,6 +56,6 @@ Predictive analytics project comparing regression models to estimate student sco
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/rifa-sadiqa](https://www.linkedin.com/in/rifa-sadiqa/)
+LinkedIn: <a href="https://www.linkedin.com/in/rifa-sadiqa/" target="_blank">linkedin.com/in/rifa-sadiqa</a>
 
 Email: sadiqarifa12@gmail.com 
